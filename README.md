@@ -1,2 +1,2 @@
-# Calculater-App
-This is my first calculator App
+# EDGE_PROJECT_MOB_APP
+This is my first MOBILE APP
